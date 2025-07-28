@@ -44,7 +44,11 @@ Grammarly becomes an end-to-end writing solution: from idea to polished output. 
 ## 🏷 Branding
 Aligned with Grammarly Premium — professional, polished, productivity-focused.
 
----
+## 🙋 About the Creator
 
-### 📁 Suggested Folder Structure
+**Jumoke Adekanye**  
+Product Manager  
+[LinkedIn](https://www.linkedin.com/in/jumokeadekanye/)
+
+
 

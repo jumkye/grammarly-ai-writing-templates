@@ -30,6 +30,7 @@ To enhance user productivity by integrating contextual, editable writing templat
 - [Value Proposition Canvas](https://www.figma.com/board/7HsWCfBqJm0St3MZCgfNdi/Value-Proposition-Canvas---Grammarly-AI-Template-Feature)
 - [Prototype](https://www.figma.com/design/SHD8Mt7JJLgUTlWao5NDy9/GRAMMARLY-AI-WRITING-TEMPLATES-PROTOTYPE?node-id=0-1)
 - [Feature Rollout Product Roadmap](https://jumkye.atlassian.net/jira/polaris/projects/GTFR/ideas/view/6774099)
+- [PRD](https://github.com/jumkye/grammarly-ai-writing-templates/blob/e81ef67e8a424f886d5e3bd48cf407be5a508d55/Grammarly%20AI%20Writing%20Templates%20Library%20PRD%20.pdf)
 
 ## 💡 Key Features
 - Mobile-responsive templates
